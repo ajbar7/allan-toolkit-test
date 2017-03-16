@@ -34,4 +34,4 @@ The statement commits Australian Government entities to;
 * with descriptive metadata;
 * using agreed open standards;
 * kept up to date in an automated way; and
-* under a Creative Commons By Attribution licence unless a clear case is made
+* under a Creative Commons By Attribution licence unless a clear case is made.
