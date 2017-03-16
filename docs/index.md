@@ -6,8 +6,8 @@ The toolkit is compromised of four sections:
 
 * **Getting Started**
 * **Planning**
-* **Publishing your data** – preparing and publishing your data including shared infrastructure you can leverage
-* **Using data.gov.au** – for those jumping straight into linking or hosting data through the Federal data portal for public discoverability
+* **Publishing your data**
+* **Using data.gov.au**
 
 ## Public Data Policy Statement
 
