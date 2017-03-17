@@ -1,4 +1,4 @@
-## What is open data
+# What is open data
 
 Data is information. In this case, it’s computer-based information that has been collected together for reference or analysis. Examples of data in federal government include the location and quality of broadband connections, the number of people receiving different types of support from Centrelink, or the boundaries for federal elections. Data.gov.au has thousands of data sets from hundreds of government agencies. Open data is, at its best, data that is freely available, easily discoverable, accessible and published in ways and under licences that allow reuse. As a default, government data should be:
 
@@ -12,13 +12,13 @@ Data is information. In this case, it’s computer-based information that has be
 
 Open data may be available in other forms that do not meet those standards. For example, data published in a PDF file with all rights reserved is less open than data in a spread sheet file published under a Creative Commons BY licence, but both are forms of open data. See publishing your data for examples of how open data can be made and displayed, and why open data is important for more information on the case for open government data.
 
-## Why data is important
+# Why data is important
 
 Government agencies collect significant amounts of data in the course of their activities. This data has intrinsic economic and social value, often in ways not foreseen by those that collect it. With appropriate consideration of commercial, privacy and security sensitivities, there is mounting evidence indicating that the public release of government-held data, in easily shared and readable formats, can fuel business activity, increase public sector efficiency, and provide better support for evidence-based policy development.
 
 In addition, improved use of administrative data across government agencies, can achieve efficiencies and provide better analytical insights for more informed policy development and decision making. Agencies can publicly publish administrative data in aggregate but unit record access is generally accessible only through appropriate secure mechanisms.
 
-## Opportunities from shared data
+# Opportunities from shared data
 
 Lateral Economics’ report, [Open for Business: How Open Data Can Help Achieve the G20 Growth Target](http://www.omidyar.com/insights/open-business), suggests that more vigorous open data policies could add around AU$16 billion per annum to the Australian economy and increase output across the G20 economies by around US$13 trillion over the next five years. However, the report notes that while some of this value is already being obtained, the open data agenda needs to be prioritised so that the benefits can be fully realised.
 
@@ -27,7 +27,7 @@ As the Open Knowledge Foundation says in their [Open Data Handbook](http://opend
 
 International examples of the benefits of open data demonstrate the efficiencies and increased economic benefit and activity generated from open data. A United Kingdom 2011 [Deloitte Analytics report](https://www2.deloitte.com/content/dam/Deloitte/uk/Documents/deloitte-analytics/open-growth.pdf) outlines that, in addition to substantially increased engagement with open data sites since 2010, high-value datasets that drive economic benefit are increasingly becoming sought after. It states that the average number of page views per dataset on data.gov.uk increased by 285 between January 2010 and September 2012.
 
-## Policies, Reports & Documents
+# Policies, Reports & Documents
 
 data.gov.au is an Australian Government initiative to support the discovery and publishing of public sector information for public access, better reuse across the whole of government, and to support openness, transparency and economic development in the Australian community. This aim is supported by the policies below, which encourage agencies to publish government datasets on or linked through data.gov.au.
 
@@ -44,7 +44,7 @@ data.gov.au is an Australian Government initiative to support the discovery and 
 * [Guidance on Data Sharing for Australian Government Entities](https://www.dpmc.gov.au/resource-centre/public-data/guidance-data-sharing-australian-government-entities)
 * [The National Commission of Audit](http://www.ncoa.gov.au/report/phase-one/part-b/10-5-data.html)
 
-## Non-Government Reports
+# Non-Government Reports
 
 The following reports on data give context and metrics for the government’s support of open data, and may be useful for developing open data business cases.
 
