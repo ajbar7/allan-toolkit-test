@@ -4,7 +4,7 @@ The Open Data Toolkit can help, with simple and practical information on how you
 
 The toolkit is compromised of four sections:
 
-* **Getting Started**
+* **Getting started**
 * **Planning**
 * **Publishing your data**
 * **Using data.gov.au**
