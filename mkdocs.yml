@@ -2,6 +2,7 @@ site_name: Open Data Toolkit
 pages:
     - [index.md, Home, "Open Data Toolkit"]
     - [getting-started.md, "Getting Started"]
+    - [planning.md, "Planning"]
 theme: readthedocs
 site_favicon: imgs/favicon.ico
 google_analytics:
