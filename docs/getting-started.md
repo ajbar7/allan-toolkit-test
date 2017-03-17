@@ -22,7 +22,7 @@ In addition, improved use of administrative data across government agencies, can
 
 ## Opportunities from shared data
 
-Lateral Economics’ report, [Open for Business: How Open Data Can Help Achieve the G20 Growth Target](http://www.omidyar.com/sites/default/files/file_archive/insights/ON%20Report_061114_FNL.pdf), suggests that more vigorous open data policies could add around AU$16 billion per annum to the Australian economy and increase output across the G20 economies by around US$13 trillion over the next five years. However, the report notes that while some of this value is already being obtained, the open data agenda needs to be prioritised so that the benefits can be fully realised.
+Lateral Economics’ report, [Open for Business: How Open Data Can Help Achieve the G20 Growth Target](http://www.omidyar.com/insights/open-business), suggests that more vigorous open data policies could add around AU$16 billion per annum to the Australian economy and increase output across the G20 economies by around US$13 trillion over the next five years. However, the report notes that while some of this value is already being obtained, the open data agenda needs to be prioritised so that the benefits can be fully realised.
 
 As the Open Knowledge Foundation says in their [Open Data Handbook](http://opendatahandbook.org/guide/en/why-open-data/),
 > "We don’t yet know what new things will become possible. New combinations of data can create new knowledge and insights, which can lead to whole new fields of application... This untapped potential can be unleashed if we turn public government data into open data."
@@ -33,14 +33,14 @@ International examples of the benefits of open data demonstrate the efficiencies
 
 data.gov.au is an Australian Government initiative to support the discovery and publishing of public sector information for public access, better reuse across the whole of government, and to support openness, transparency and economic development in the Australian community. This aim is supported by the policies below, which encourage agencies to publish government datasets on or linked through data.gov.au.
 
-* [Public Data Policy Statement: Department of the Prime Minister and Cabinet](https://www.dpmc.gov.au/public-data/public-data-policy)
+* [The Public Data Policy Statement](https://www.dpmc.gov.au/public-data/public-data-policy)
 * [Open public sector information: from principles to practice (OAIC)](http://www.oaic.gov.au/information-policy/information-policy-resources/information-policy-reports/open-public-sector-information-from-principles-to-practice)
 * [Australian Privacy Principles (APPs) Guidelines (OAIC)](https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/)
 * [Chapter 2: APP 2 — Anonymity and pseudonymity](https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/chapter-2-app-2-anonymity-and-pseudonymity)
 * [Foundationa Spatial Data Framework (FSDF)](http://www.anzlic.gov.au/foundation-spatial-data-framework)
 * [Digital Continuity 2020 Policy](http://www.naa.gov.au/information-management/digital-transition-and-digital-continuity/digital-continuity-2020/index.aspx)
 * [Digital Service Standard](https://www.dta.gov.au/standard/)
-[Australian Government intellectual property rules](https://www.communications.gov.au/policy/policy-listing/australian-government-intellectual-property-rules)
+* [Australian Government intellectual property rules](https://www.communications.gov.au/policy/policy-listing/australian-government-intellectual-property-rules)
 * [Public Sector Data Management Report](https://www.dpmc.gov.au/public-data/public-sector-data-management-project)
 * [Public Sector Data Management: Implementation report](https://www.dpmc.gov.au/resource-centre/public-data/public-sector-data-management-implementation-report)
 * [Guidance on Data Sharing for Australian Government Entities](https://www.dpmc.gov.au/resource-centre/public-data/guidance-data-sharing-australian-government-entities)
@@ -50,5 +50,5 @@ data.gov.au is an Australian Government initiative to support the discovery and 
 
 The following reports on data give context and metrics for the government’s support of open data, and may be useful for developing open data business cases.
 
-* [Lateral Economics’ Open for Business report](http://www.omidyar.com/insights/open-business) (Commissioned by Omidyar Network).
+* [Lateral Economics’ Open for Business report](http://www.omidyar.com/insights/open-business) (Commissioned by Omidyar Network)
 * [Deciding with data: How data-driven innovation is fuelling Australia’s economic growth by Pricewaterhouse Coopers](http://www.pwc.com.au/publications/data-drive-innovation.html)
