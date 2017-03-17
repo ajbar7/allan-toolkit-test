@@ -1,5 +1,3 @@
-# Getting Started
-
 ## What is open data
 
 Data is information. In this case, it’s computer-based information that has been collected together for reference or analysis. Examples of data in federal government include the location and quality of broadband connections, the number of people receiving different types of support from Centrelink, or the boundaries for federal elections. Data.gov.au has thousands of data sets from hundreds of government agencies. Open data is, at its best, data that is freely available, easily discoverable, accessible and published in ways and under licences that allow reuse. As a default, government data should be:
