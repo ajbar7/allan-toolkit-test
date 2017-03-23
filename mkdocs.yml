@@ -3,6 +3,8 @@ pages:
     - [index.md, Home, "Open Data Toolkit"]
     - [getting-started.md, "Getting Started"]
     - [planning.md, "Planning"]
+    - [publishing-your-data.md, "Publishing Your Data"]
+    - [nationalmap.md, "NationalMap"]
 theme: readthedocs
 site_favicon: imgs/favicon.ico
 google_analytics:
