@@ -1,10 +1,11 @@
 site_name: Open Data Toolkit
 pages:
-    - [index.md, Home, "Open Data Toolkit"]
-    - [getting-started.md, "Getting Started"]
-    - [planning.md, "Planning"]
-    - [publishing-your-data.md, "Publishing Your Data"]
-    - [nationalmap.md, "NationalMap"]
+    - [index.md, "General Information", "Open Data Toolkit"]
+    - [getting-started.md, "General Information", "Getting Started"]
+    - [planning.md, "General Information", "Planning"]
+    - [publishing-your-data.md, "General Information", "Publishing Your Data"]
+    - [nationalmap.md, "NationalMap", "NationalMap"]
+    - [data-gov-au-starting.md, "Using data.gov.au", "Starting on data.gov.au"]
 theme: readthedocs
 site_favicon: imgs/favicon.ico
 google_analytics:
