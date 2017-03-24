@@ -59,7 +59,7 @@ The following reports on data give context and metrics for the government’s su
 
 # Measuring Open Data
 
-* [Global Open Data Index (Open Knowledge Foundation)](http://index.okfn.org/place/)
+* [Global Open Data Index (Open Knowledge International)](http://index.okfn.org/place/)
 * [Open Data Barometer (World Wide Web Foundation)](http://opendatabarometer.org/data-explorer/?_year=2015&indicator=ODB)
 * [OURdata Index (OECD)](https://www.slideshare.net/OECD-GOV/ou-rdata-index)
 * [Open Data Inventory (Open Data Watch)](http://odin.opendatawatch.com/)
