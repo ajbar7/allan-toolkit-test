@@ -14,11 +14,11 @@ If your organisation does not have a publishing presence on data.gov.au you will
 
 Once internal approval has been granted send the text below to data@pmc.gov.au:
 
-> On behalf of the **<entity name>**, I request a data publishing account on data.gov.au. **<entity name>** will be responsible for the management of this account and the data that is published using it.
+> On behalf of the **[entity name]**, I request a data publishing account on data.gov.au. **[entity name]** will be responsible for the management of this account and the data that is published using it.
 
-> **<entity name>** will notify the Department of the Prime Minister and Cabinet (DPMC) to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and DPMC take no responsibility.
+> **[entity name]** will notify the Department of the Prime Minister and Cabinet (DPMC) to any changes in ownership of the account and of any issues if they arise. The responsibility of publishing data appropriately, in accordance with privacy, security and other relevant considerations rests entirely with the data publisher and DPMC take no responsibility.
 
-> I have registered the account name **<account name>** with email address **<email address>** on data.gov.au and request access to publish data.
+> I have registered the account name **[account name]** with email address **[email address]** on data.gov.au and request access to publish data.
 
 > I understand that DPMC intends to continue to provide data.gov.au as a whole of government data publishing platform at no cost to government data publishers. If circumstances change, DPMC will give publishers appropriate notice. 
 
