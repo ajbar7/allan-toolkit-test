@@ -48,9 +48,9 @@ A core theme of the current policies that address the management of public secto
 
 The collection of links below demonstrate the breadth and value of the ways that data.gov.au and other open data resources are currently used. The Government [data use cases](http://data.gov.au/showcase) on data.gov.au are also an excellent resource for understanding how data from data.gov.au can be used.
 
-## National Map
+## NationalMap
 
-The National Map is a website for map-based access to Australian spatial data from government agencies. It is designed to:
+NationalMap is a website for map-based access to Australian spatial data from government agencies. It is designed to:
 
 * Provide easy access to authoritative and other spatial data to government, business and the public
 * Facilitate the opening of data by federal, state and local government bodies
