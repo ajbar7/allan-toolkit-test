@@ -14,6 +14,7 @@ To update your organisation’s details:
 You may choose to grant additional publishing privileges to other users in your organisation. Users may be granted different roles based on their requirements. A list of roles and their definition is available below.
 
 To add users to your organisation:
+
 1. Ensure that the user has created their account  and has provided you their username. 
 2. Browse to your organisation.
 3. Click the Manage button near the top right of the page.
@@ -25,6 +26,7 @@ To add users to your organisation:
 # Removing users from an organisation
 
 If you’d like to update or remove a user from your organisation:
+
 1. Browse to your organisation.
 2. Click the Manage button near the top right of the page.
 3. Click the Members tab near the top of the page.
