@@ -93,6 +93,7 @@ Unless it is absolutely required it is not recommended that resources are delete
 It is not possible to reverse a deleted resource and applications which use the resource as listed on data.gov.au may break as a result.
 
 To delete a resource:
+
 1. Browse to the dataset and select the resource that you’d like to delete.
 2. Once you are on the resource page click the **Manage** button located on the top right of the page.
 3. Near the bottom of the page there will be a **Delete** button.
