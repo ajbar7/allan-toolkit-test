@@ -6,6 +6,7 @@ pages:
     - [publishing-your-data.md, "General Information", "Publishing Your Data"]
     - [nationalmap.md, "NationalMap", "NationalMap"]
     - [data-gov-au-starting.md, "Using data.gov.au", "Starting on data.gov.au"]
+    - [data-gov-au-managing-org.md "Using data.gov.au", "Managing your organisation"]
 theme: readthedocs
 site_favicon: imgs/favicon.ico
 google_analytics:
