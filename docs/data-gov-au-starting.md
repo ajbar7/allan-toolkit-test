@@ -2,7 +2,7 @@
 
 Anyone can browse, download or use an API from data.gov.au without creating an account. 
 
-Government users that require the ability to publish a dataset will need to create an account and request publishing privileges. To create an account click the Register link at the top right of any page (*or, point your browser to https://data.gov.au/user/register*) and complete the form. You only need to complete the username, email, password and confirm [*password*] fields. 
+Government users that require the ability to publish a dataset will need to create an account and request publishing privileges. To create an account click the Register link at the top right of any page (*or, point your browser to [data.gov.au/user/register](https://data.gov.au/user/register)*) and complete the form. You only need to complete the username, email, password and confirm [*password*] fields. 
 
 We recommend that you use a group email account for managing your presence on data.gov.au.
 
