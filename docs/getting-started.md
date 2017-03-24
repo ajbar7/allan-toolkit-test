@@ -31,18 +31,24 @@ International examples of the benefits of open data demonstrate the efficiencies
 
 data.gov.au is an Australian Government initiative to support the discovery and publishing of public sector information for public access, better reuse across the whole of government, and to support openness, transparency and economic development in the Australian community. This aim is supported by the policies below, which encourage agencies to publish government datasets on or linked through data.gov.au.
 
+## Policies and Principles
 * [The Public Data Policy Statement](https://www.dpmc.gov.au/public-data/public-data-policy)
 * [Open public sector information: from principles to practice (OAIC)](http://www.oaic.gov.au/information-policy/information-policy-resources/information-policy-reports/open-public-sector-information-from-principles-to-practice)
 * [Australian Privacy Principles (APPs) Guidelines (OAIC)](https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/)
 * [Chapter 2: APP 2 — Anonymity and pseudonymity](https://www.oaic.gov.au/agencies-and-organisations/app-guidelines/chapter-2-app-2-anonymity-and-pseudonymity)
-* [Foundationa Spatial Data Framework (FSDF)](http://www.anzlic.gov.au/foundation-spatial-data-framework)
 * [Digital Continuity 2020 Policy](http://www.naa.gov.au/information-management/digital-transition-and-digital-continuity/digital-continuity-2020/index.aspx)
 * [Digital Service Standard](https://www.dta.gov.au/standard/)
 * [Australian Government intellectual property rules](https://www.communications.gov.au/policy/policy-listing/australian-government-intellectual-property-rules)
+* [Guidance on Data Sharing for Australian Government Entities](https://www.dpmc.gov.au/resource-centre/public-data/guidance-data-sharing-australian-government-entities)
+
+## Reports
 * [Public Sector Data Management Report](https://www.dpmc.gov.au/public-data/public-sector-data-management-project)
 * [Public Sector Data Management: Implementation report](https://www.dpmc.gov.au/resource-centre/public-data/public-sector-data-management-implementation-report)
-* [Guidance on Data Sharing for Australian Government Entities](https://www.dpmc.gov.au/resource-centre/public-data/guidance-data-sharing-australian-government-entities)
 * [The National Commission of Audit](http://www.ncoa.gov.au/report/phase-one/part-b/10-5-data.html)
+* [Open government data and why it matters (Bureau of Communication Research)](https://www.communications.gov.au/departmental-news/open-government-data-and-why-it-matters-now)
+
+## Some other heading
+* [Foundation Spatial Data Framework (FSDF)](http://www.anzlic.gov.au/foundation-spatial-data-framework)
 
 # Non-Government Reports
 
@@ -50,3 +56,10 @@ The following reports on data give context and metrics for the government’s su
 
 * [Lateral Economics’ Open for Business report](http://www.omidyar.com/insights/open-business) (Commissioned by Omidyar Network)
 * [Deciding with data: How data-driven innovation is fuelling Australia’s economic growth by Pricewaterhouse Coopers](http://www.pwc.com.au/publications/data-drive-innovation.html)
+
+# Measuring Open Data
+
+* [Global Open Data Index (Open Knowledge Foundation)](http://index.okfn.org/place/)
+* [Open Data Barometer (World Wide Web Foundation)](http://opendatabarometer.org/data-explorer/?_year=2015&indicator=ODB)
+* [OURdata Index (OECD)](https://www.slideshare.net/OECD-GOV/ou-rdata-index)
+* [Open Data Inventory (Open Data Watch)](http://odin.opendatawatch.com/)
