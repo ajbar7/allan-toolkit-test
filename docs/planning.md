@@ -44,13 +44,21 @@ A core theme of the current policies that address the management of public secto
 * Another example is the Department of Finance’s release of [historical government contract data](http://data.gov.au/dataset/historical-australian-government-contract-data) from the [AusTender website](http://www.tenders.gov.au/) on data.gov.au.
 * Assess whether any material they have already published online in publications, websites or apps is suitable for release as open data. This could include material published as part of the FOI Act Information Publication Scheme or in an agency disclosure log.
 
+## Assesing Readiness
+
+There are a number of resources available to help organisations assess their readiness to publish data:
+
+* [Open Data Maturity Model (Open Data Institute)](https://theodi.org/guides/maturity-model) The Open Data Maturity Model is a way to assess how well an organisation publishes and consumes open data, and identifies actions for improvement.
+* [Open Data Handbook (Open Knowledge International)](http://opendatahandbook.org/) Guides, case studies and resources for government & civil society on the "what, why & how" of open data.
+
+
 # Case Studies
 
 The collection of links below demonstrate the breadth and value of the ways that data.gov.au and other open data resources are currently used. The Government [data use cases](http://data.gov.au/showcase) on data.gov.au are also an excellent resource for understanding how data from data.gov.au can be used.
 
-## National Map
+## NationalMap
 
-The National Map is a website for map-based access to Australian spatial data from government agencies. It is designed to:
+NationalMap is a website for map-based access to Australian spatial data from government agencies. It is designed to:
 
 * Provide easy access to authoritative and other spatial data to government, business and the public
 * Facilitate the opening of data by federal, state and local government bodies
