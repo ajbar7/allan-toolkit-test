@@ -38,8 +38,7 @@ To make best use of data.gov.au it is recommended that you use a data format rec
 2. You will need to give your file a **Name**. This will be displayed on the dataset landing page.
 3. If appropriate give the resource a short **Description**.
 4. If you do not select a **Format** for the resource the platform will attempt to automatically detect the file type.
-5. If you are uploading a zip file you may choose to extract a subset of ‘interesting’ files from the compressed file by selecting the **Extract Resources from Zip Files** checkbox. You can read more about the zip extractor here.
-6. The **Last Modified** field will be auto complete to the current date if left blank.
+5. The **Last Modified** field will be auto complete to the current date if left blank.
 
 ## CSV and tabular data to API
 
