@@ -27,7 +27,7 @@ data.gov.au will only work with a single spatial file per dataset. Adding multip
 
 ### Making tabular data spatial using csv-geo-au
 
-The csv-geo-au specification can be used to publish point or region-mapped Australian geospatial data in CSV format to data.gov.au and other open data portals. 
+The [csv-geo-au specification](https://github.com/TerriaJS/nationalmap/wiki/csv-geo-au) can be used to publish point or region-mapped Australian geospatial data in CSV format to data.gov.au and other open data portals. 
 
 ## Uploading a resource file
 
