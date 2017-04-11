@@ -5,11 +5,13 @@ pages:
     - [planning.md, "General Information", "Planning"]
     - [publishing-your-data.md, "General Information", "Publishing Your Data"]
     - [nationalmap.md, "NationalMap", "NationalMap"]
-    - [data-gov-au-starting.md, "Using data.gov.au", "Starting on data.gov.au"]
-    - [data-gov-au-managing-org.md, "Using data.gov.au", "Managing your organisation"]
-    - [data-gov-au-publishing-tabular-data.md, "Using data.gov.au", "Publishing & Maintaining Tabular Data"]
-    - [data-gov-au-publishing-spatial-data.md, "Using data.gov.au", "Publishing & Maintaining Spatial Data"]
-    - [data-gov-au-dataset-attributes.md, "Using data.gov.au", "Dataset attributes (metadata)"]
+    - [data-gov-au-starting.md, "Publishing to data.gov.au", "Starting on data.gov.au"]
+    - [data-gov-au-managing-org.md, "Publishing to data.gov.au", "Managing your organisation"]
+    - [data-gov-au-publishing-tabular-data.md, "Publishing to data.gov.au", "Publishing & Maintaining Tabular Data"]
+    - [data-gov-au-publishing-spatial-data.md, "Publishing to data.gov.au", "Publishing & Maintaining Spatial Data"]
+    - [data-gov-au-dataset-attributes.md, "Publishing to data.gov.au", "Dataset attributes (metadata)"]
+    - [datagovau-automated-publishing.md, "Publishing to data.gov.au", "Automated Publishing"]
+    - [datagovau-data-usage-analytics.md, "Publishing to data.gov.au", "Dataset Usage Analytics"]
 theme: readthedocs
 site_favicon: imgs/favicon.ico
 google_analytics:
