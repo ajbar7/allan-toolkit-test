@@ -5,6 +5,7 @@ pages:
     - [planning.md, "General Information", "Planning"]
     - [publishing-your-data.md, "General Information", "Publishing Your Data"]
     - [nationalmap.md, "NationalMap", "NationalMap"]
+    - [nationalmap.md, "NationalMap", "csv-geo-au"]
     - [data-gov-au-starting.md, "Publishing to data.gov.au", "Starting on data.gov.au"]
     - [data-gov-au-managing-org.md, "Publishing to data.gov.au", "Managing your organisation"]
     - [data-gov-au-publishing-tabular-data.md, "Publishing to data.gov.au", "Publishing & Maintaining Tabular Data"]
