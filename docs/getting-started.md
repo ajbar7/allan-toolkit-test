@@ -42,6 +42,7 @@ data.gov.au is an Australian Government initiative to support the discovery and 
 * [Guidance on Data Sharing for Australian Government Entities](https://www.dpmc.gov.au/resource-centre/public-data/guidance-data-sharing-australian-government-entities)
 
 ## Reports
+* [Productivity Commission’s Data Availability and Use Inquiry Report](http://www.pc.gov.au/inquiries/completed/data-access)
 * [Public Sector Data Management Report](https://www.dpmc.gov.au/public-data/public-sector-data-management-project)
 * [Public Sector Data Management: Implementation report](https://www.dpmc.gov.au/resource-centre/public-data/public-sector-data-management-implementation-report)
 * [The National Commission of Audit](http://www.ncoa.gov.au/report/phase-one/part-b/10-5-data.html)
