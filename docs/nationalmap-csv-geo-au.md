@@ -2,7 +2,7 @@ csv-geo-au is a specification for publishing point or region-mapped Australian g
 
 Publishing data using this specification will allow tabular data to be displayed as a layer on the NationalMap. 
 
-More infromation about csv-geo-au, including supported regions, [is available here](https://github.com/TerriaJS/nationalmap/wiki/csv-geo-au).
+More information about csv-geo-au, including supported regions, [is available here](https://github.com/TerriaJS/nationalmap/wiki/csv-geo-au).
 
 ## csv-geo-au and data.gov.au
 
