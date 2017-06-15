@@ -35,8 +35,3 @@ The below is a tables lists the attributes you will need to know about your data
 |Format|The file type of the file. Can be automatically approximated from the uploaded file or manually set on upload.|Yes|
 |Size|The file size of the uploaded resource. This value is automatically generated.|No|
 |License|Inherited from dataset.|Yes|
-
-# Data.gov.au Metadata Schema 
-Data.gov.au uses components of the AGLS, Dublin Core and Data Catalog Vocabulary metadata standards as per below. We have adopted the approach based on analysis and expect to improve upon the metadata approach to get consistency of discovery data across all data types.
-
-A mapping of data.gov.au's metadata schema and associated [can be downloaded from data.gov.au](http://data.gov.au/dataset/data-gov-au-metadata-and-other-schemas).
