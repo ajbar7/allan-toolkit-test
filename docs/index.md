@@ -11,7 +11,7 @@ The toolkit is compromised of four sections:
 
 ## Public Data Policy Statement
 
-The Public Data Policy Statement was released on the 7 December 2016.  You can download the full statement on the [Department’s website](https://www.dpmc.gov.au/public-data/public-data-policy).
+The Public Data Policy Statement was released on the 7 December 2015.  You can download the full statement on the [Department’s website](https://www.dpmc.gov.au/public-data/public-data-policy).
 
 The statement commits Australian Government entities to;
 
