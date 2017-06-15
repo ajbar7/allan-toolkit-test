@@ -1,12 +1,12 @@
 # Open Data Toolkit
 
-The Open Data Toolkit can help, with simple and practical information on how your agency can make its data open, and why it’s worth doing.
+The Open Data Toolkit can help, with simple and practical information on how your agency can make its data open, and why it is worth doing.
 
 ## Public Data Policy Statement
 
 The Public Data Policy Statement was released on the 7 December 2015.  You can download the full statement on the [Department’s website](https://www.dpmc.gov.au/public-data/public-data-policy).
 
-The statement commits Australian Government entities to;
+The statement commits Australian Government entities to:
 
 * make non-sensitive data open by default to contribute to greater innovation and productivity improvements across all sectors of the Australian economy;
 * where possible, make data available with free, easy to use, high quality and reliable Application Programming Interfaces (APIs);
