@@ -1,4 +1,4 @@
-# Publishing spatal data
+# Publishing spatial data
 
 Before you can publish your first dataset you’ll need to:
 
