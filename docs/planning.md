@@ -44,7 +44,7 @@ A core theme of the current policies that address the management of public secto
 * Another example is the Department of Finance’s release of [historical government contract data](http://data.gov.au/dataset/historical-australian-government-contract-data) from the [AusTender website](http://www.tenders.gov.au/) on data.gov.au.
 * Assess whether any material they have already published online in publications, websites or apps is suitable for release as open data. This could include material published as part of the FOI Act Information Publication Scheme or in an agency disclosure log.
 
-## Assesing Readiness
+## Assessing Readiness
 
 There are a number of resources available to help organisations assess their readiness to publish data:
 
