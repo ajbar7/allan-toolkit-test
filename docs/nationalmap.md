@@ -11,4 +11,4 @@ NationalMap is an initiative of the Australian Commonwealth Government's Departm
 
 ![screen capture of NationalMap website showing Australia](https://github.com/ajbar7/allan-toolkit-test/blob/master/docs/pictures/NationalMap-20170323.JPG?raw=true)
 
-More infromation about NationalMap, including how to add and view data, is available at http://nationalmap.gov.au/about.html.
+More information about NationalMap, including how to add and view data, is available at http://nationalmap.gov.au/about.html.
