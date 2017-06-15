@@ -2,7 +2,7 @@
 
 The Open Data Toolkit can help, with simple and practical information on how your agency can make its data open, and why it’s worth doing.
 
-The toolkit is compromised of four sections:
+The toolkit is comprised of four sections:
 
 * **Getting started**
 * **Planning**
